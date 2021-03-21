@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Uts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">
+        <a href="https://youtube.com/playlist?list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ%22%3E">Link Youtube 1</a>
+    </string>
+    <string name="text1">
+        <a href ="https://www.youtube.com/watch?v=1xRC1DMWg9I">Link Youtube 2</a>
+    </string>
+    <string name="text2">
+        <a href ="https://youtu.be/FFL-k9fFYfI">Link Youtube 3</a>
+    </string>
+    <string name="text3">
+        <a href ="https://youtu.be/bgIUdb-7Rqo">Link Youtube 4</a>
+    </string>
+
+</resources>
